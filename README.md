@@ -19,11 +19,11 @@ Un juego clásico de Tenis (Pong) desarrollado en Python utilizando la librería
 
 ### Windows
 
-La forma más sencilla de jugar es descargar el archivo ejecutable (`.exe`) desde nuestra última versión.
+La forma más sencilla de jugar es descargar el archivo ejecutable (`.exe`).
 
-1.  Ve a la sección de **Releases**.
-2.  Descarga el archivo `Tenis.zip`.
-3.  Descomprime el archivo y ejecuta `Tenis.exe`.
+**➡️ Descargar la última versión para Windows ⬅️**
+
+Una vez descargado el archivo `Tenis.zip`, descomprímelo y ejecuta `Tenis.exe`.
 
 ### Linux
 

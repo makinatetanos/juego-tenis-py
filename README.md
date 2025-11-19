@@ -2,7 +2,7 @@
 
 Un juego clásico de Tenis (Pong) desarrollado en Python utilizando la librería Pygame.
 
-[Haz clic aquí para ver un vídeo del gameplay](./Demo%20TenisPY.mp4)
+![Gameplay del Juego](./demo.gif)
 
 ## Características
 
